@@ -1,0 +1,94 @@
+{
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-10-06 15:38:50 -0300",
+      "has_ancient_anima": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2025-10-06 15:38:50 -0300",
+      "has_obsidian_heart": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-10-06 15:38:50 -0300",
+      "has_obsidian_heart": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-10-06 15:38:50 -0300",
+      "has_ancient_anima": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-10-06 15:38:51 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-10-06 15:38:51 -0300"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-10-06 15:38:51 -0300"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-10-06 15:38:50 -0300",
+      "has_obsidian_heart": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-10-06 15:38:50 -0300",
+      "has_ghast_tear": "2025-10-06 15:38:50 -0300",
+      "has_dragon_breath": "2025-10-06 15:38:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-10-06 15:38:50 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
